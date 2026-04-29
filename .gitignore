@@ -1,0 +1,16 @@
+# Unity generated folders
+Golf_Beginner_Developer-master/[Ll]ibrary/
+Golf_Beginner_Developer-master/[Tt]emp/
+Golf_Beginner_Developer-master/[Oo]bj/
+Golf_Beginner_Developer-master/[Ll]ogs/
+Golf_Beginner_Developer-master/[Uu]ser[Ss]ettings/
+
+# IDE / Visual Studio
+Golf_Beginner_Developer-master/.vs/
+Golf_Beginner_Developer-master/*.sln
+Golf_Beginner_Developer-master/*.csproj
+Golf_Beginner_Developer-master/*.user
+Golf_Beginner_Developer-master/*.tmp
+
+# Local backups
+.git_corrupt_backup_*/
